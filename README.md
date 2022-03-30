@@ -5,7 +5,7 @@ Instead of simple tkinter message interfaces, mpy offers simple message interfac
 ## How to install ?
 
 **Step 1: Click on the __"code"__ option on the right.**
-
+**Step 2: Hit the "Download ZIP" button and you're done! now you can open the file and use it in your application.**
 
 ## How to use ? (Nasıl kullanılır ? )
 
