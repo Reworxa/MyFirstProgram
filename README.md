@@ -38,5 +38,5 @@ MessageTypes.yesNo("Create world ?", lambda: print("Creating world...")) # Lambd
 ```py
 from mpy import MessageTypes
 
-MessageTypes.okhelp"Create world ?", lambda: print("Creating world..."),"https://google.com") # Lambda is the function to be executed when pressed, it can be assigned to an external function. The last parameter represents the web address to which the help button will be sent when pressed.
+MessageTypes.okhelp("Create world ?", lambda: print("Creating world..."),"https://google.com") # Lambda is the function to be executed when pressed, it can be assigned to an external function. The last parameter represents the web address to which the help button will be sent when pressed.
 ```
