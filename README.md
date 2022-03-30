@@ -7,7 +7,7 @@ Instead of simple tkinter message interfaces, mpy offers simple message interfac
 
 ## How to use ? (Nasıl kullanılır ? )
 
-Youtube Video : 
+Youtube Video : https://youtu.be/V4MPTTfYuyI
 
 #### Normal message box (Normal mesaj kutusu)
 
